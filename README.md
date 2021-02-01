@@ -9,8 +9,8 @@
 |00|Data Structure|자료구조|
 
 
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+| 순번 |      Tag        |     태크     |  문제집 |
+|-----|:---------------:|-------------|------:|
+| 00  | Data Structure  |   자료구조    | 바로가기 |
+| 01  | Data Structure  |   자료구조2   | 바로가기 |
+
